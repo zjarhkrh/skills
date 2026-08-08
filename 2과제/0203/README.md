@@ -10,3 +10,7 @@ wget https://raw.githubusercontent.com/zjarhkrh/skills/refs/heads/main/2%EA%B3%B
 wget https://raw.githubusercontent.com/zjarhkrh/skills/refs/heads/main/2%EA%B3%BC%EC%A0%9C/0203/03-ec2.sh
 wget https://raw.githubusercontent.com/zjarhkrh/skills/refs/heads/main/2%EA%B3%BC%EC%A0%9C/0203/04-config.sh
 ```
+
+```bash
+sed -i 's/\r$//' 02-shell.sh
+```
