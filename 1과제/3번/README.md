@@ -1,6 +1,6 @@
 ## CloudShell
 ```bash
-wget https://raw.githubusercontent.com/wngnlwngnl/skills/refs/heads/main/1%EA%B3%BC%EC%A0%9C/03/01-vpc.sh
+wget https://raw.githubusercontent.com/zjarhkrh/skills/refs/heads/main/1과제/3번/01-vpc.sh
 ```
 - mark-sg
 - wsc2026-skills-app-sub-a에 연결
@@ -9,8 +9,8 @@ wget https://raw.githubusercontent.com/wngnlwngnl/skills/refs/heads/main/1%EA%B3
 
 ## shell
 ```bash
-wget https://raw.githubusercontent.com/wngnlwngnl/skills/refs/heads/main/1%EA%B3%BC%EC%A0%9C/03/02-kms.sh
-wget https://raw.githubusercontent.com/wngnlwngnl/skills/refs/heads/main/1%EA%B3%BC%EC%A0%9C/03/03-cluster.sh
+wget https://raw.githubusercontent.com/zjarhkrh/skills/refs/heads/main/1과제/3번/02-kms.sh
+wget https://raw.githubusercontent.com/zjarhkrh/skills/refs/heads/main/1과제/3번/03-cluster.sh
 ```
 
 <br>
@@ -26,14 +26,14 @@ wget https://raw.githubusercontent.com/wngnlwngnl/skills/refs/heads/main/1%EA%B3
 - 배포파일/book
 - v1* 설정
 ```bash
-wget https://raw.githubusercontent.com/wngnlwngnl/skills/refs/heads/main/1%EA%B3%BC%EC%A0%9C/03/04-ecr.sh
+wget https://raw.githubusercontent.com/zjarhkrh/skills/refs/heads/main/1과제/3번/04-ecr.sh
 ```
 
 <br>
 
 ## DynamoDB
 ```bash
-wget https://raw.githubusercontent.com/wngnlwngnl/skills/refs/heads/main/1%EA%B3%BC%EC%A0%9C/03/05-dynamodb.sh
+wget https://raw.githubusercontent.com/zjarhkrh/skills/refs/heads/main/1과제/3번/05-dynamodb.sh
 ```
 
 <br>
@@ -49,9 +49,9 @@ wget https://raw.githubusercontent.com/wngnlwngnl/skills/refs/heads/main/1%EA%B3
 
 ## shell
 ```bash
-wget https://raw.githubusercontent.com/wngnlwngnl/skills/refs/heads/main/1%EA%B3%BC%EC%A0%9C/03/06-app.sh
-wget https://raw.githubusercontent.com/wngnlwngnl/skills/refs/heads/main/1%EA%B3%BC%EC%A0%9C/03/07-monitoring.sh
-wget https://raw.githubusercontent.com/wngnlwngnl/skills/refs/heads/main/1%EA%B3%BC%EC%A0%9C/03/08-waf.sh
+wget https://raw.githubusercontent.com/zjarhkrh/skills/refs/heads/main/1과제/3번/06-app.sh
+wget https://raw.githubusercontent.com/zjarhkrh/skills/refs/heads/main/1과제/3번/07-monitoring.sh
+wget https://raw.githubusercontent.com/zjarhkrh/skills/refs/heads/main/1과제/3번/08-waf.sh
 ```
 
 <br>
