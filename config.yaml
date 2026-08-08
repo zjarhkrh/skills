@@ -1,0 +1,18 @@
+regions:  
+	- ap-northeast-2
+	- global
+
+account-blacklist:
+	- "999999999999"
+
+accounts:
+  	"사용자 아이디":
+    filters:
+      IAMUser:
+        - "nuke"
+      IAMUserPolicyAttachment:
+        - type: "glob"
+          value: "nuke -> *"
+      IAMUserAccessKey:
+        - type: "glob"
+          value: "nuke -> *"
