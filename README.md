@@ -20,6 +20,15 @@ echo "ec2-user:1234" | chpasswd
 systemctl restart sshd
 ```
 
+```bash
+curl --silent --location "https://github.com/eksctl-io/eksctl/releases/latest/download/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp
+sudo mv /tmp/eksctl /usr/local/bin
+```
+```bash
+CLUSTER_NAME="<클러스터 이름>"
+eksctl utils write-kubeconfig --name $CLUSTER_NAME
+eksctl utils associate-iam-oidc-provider --approve --cluster $CLUSTER_NAME
+```
 
 <br>
 
